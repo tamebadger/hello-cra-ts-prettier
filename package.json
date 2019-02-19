@@ -19,7 +19,7 @@
     "lint-ts": "tslint -c tslint.json 'src/**/*.{ts,tsx}'",
     "lint": "tslint-config-prettier-check ./tslint.json",
     "storybook": "start-storybook -p 9001 -c .storybook",
-    "snapshot": "build-storybook && percy-storybook --widths=320,1280"
+    "percy": "build-storybook && percy-storybook --widths=320,1280"
   },
   "eslintConfig": {
     "extends": "react-app"
