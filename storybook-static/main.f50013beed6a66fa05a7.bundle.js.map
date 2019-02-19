@@ -1,0 +1,1 @@
+{"version":3,"file":"main.f50013beed6a66fa05a7.bundle.js","sources":["webpack:///./src/Button.tsx"],"sourcesContent":["import React, { Component } from \"react\";\n\nclass Button extends Component {\n  public render() {\n    return <button>hello world</button>;\n  }\n}\n\nexport default Button;\n"],"mappings":"AAEA","sourceRoot":""}
