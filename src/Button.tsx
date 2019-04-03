@@ -1,9 +1,9 @@
-import React, { Component } from "react";
+import React, { Component } from 'react'
 
 class Button extends Component {
   public render() {
-    return <button>hello world 3</button>;
+    return <button>hello world 3</button>
   }
 }
 
-export default Button;
+export default Button
