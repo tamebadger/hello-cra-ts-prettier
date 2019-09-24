@@ -2121,10 +2121,10 @@
   version "11.9.4"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.9.4.tgz#ceb0048a546db453f6248f2d1d95e937a6f00a14"
 
-"@types/node@12.6.9":
-  version "12.6.9"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.6.9.tgz#ffeee23afdc19ab16e979338e7b536fdebbbaeaf"
-  integrity sha512-+YB9FtyxXGyD54p8rXwWaN1EWEyar5L58GlGWgtH2I9rGmLGBQcw63+0jw+ujqVavNuO47S1ByAjm9zdHMnskw==
+"@types/node@12.7.6":
+  version "12.7.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.6.tgz#e5a993465d272a4cdbdaeb58104de97ca4e10a64"
+  integrity sha512-+lUz75GKlq6JKTigPUKd3Op8AZrnaoCut5S0jkjMZAw+i6eRTaM6vtytl/wfSxXyx+GPRTG2NUcbQWgiinnKng==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
