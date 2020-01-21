@@ -36,7 +36,7 @@
     "@storybook/react": "^5.1.10",
     "@types/storybook__react": "^5.2.0",
     "awesome-typescript-loader": "^5.2.1",
-    "husky": "^4.0.2",
+    "husky": "^4.2.0",
     "lint-staged": "^9.0.1",
     "prettier": "^1.16.4",
     "react-docgen-typescript-webpack-plugin": "^1.1.0",
