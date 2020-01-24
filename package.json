@@ -32,7 +32,7 @@
   ],
   "devDependencies": {
     "@percy-io/percy-storybook": "^2.1.0",
-    "@storybook/addon-info": "^5.1.10",
+    "@storybook/addon-info": "^5.3.9",
     "@storybook/react": "^5.1.10",
     "@types/storybook__react": "^5.2.0",
     "awesome-typescript-loader": "^5.2.1",
